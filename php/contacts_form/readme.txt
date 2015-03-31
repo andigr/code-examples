@@ -1,2 +1,2 @@
-Simple web forms with autocomplete library
+Simple web form with autocomplete library
 No frameworks were used

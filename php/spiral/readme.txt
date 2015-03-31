@@ -1,0 +1,1 @@
+Outputs two dimensional array as spiral
